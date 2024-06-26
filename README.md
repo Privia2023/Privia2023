@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Privia2023
-- 👀 I’m interested in photography and programming。
+- 👀 I’m interested in photography and programming.
 - 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on Cpp-Learning-Note
+- 💞️ I’m looking to collaborate on Cpp-Learning-Note.
 - 📫 You can contact me by email：SudakaLemonTea@outlook.com
 
 
