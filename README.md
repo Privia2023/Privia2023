@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Privia2023,a senior high school student.
+- 👋 Hi, I’m @Privia2023.
+I am a high school student struggling to get into college.
 - 👀 I’m interested in photography and programming.
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on Cpp-Learning-Note.
