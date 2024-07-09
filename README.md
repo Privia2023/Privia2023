@@ -6,7 +6,7 @@ I am a senior high school student struggling to get into college.
 - 📫 You can contact me by email：SudakaLemonTea@outlook.com
 
 # 📊 GitHub Stats:
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Deuteriunt&theme=dark&show_icons=true)](https://github.com/Deuteriunt/Deuteriunt)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Privia2023&theme=dark&show_icons=true)](https://github.com/Privia2023/Privia2023)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Deuteriunt&theme=dark&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deuteriunt&layout=compact&theme=tokyonight)
 
