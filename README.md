@@ -7,7 +7,7 @@ I am a senior high school student struggling to get into college.
 
 # 📊 GitHub Stats:
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Privia2023&theme=dark&show_icons=true)](https://github.com/Privia2023/Privia2023)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Deuteriunt&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Privia2023&theme=dark&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Privia2023&layout=compact&theme=tokyonight)
 
 ### ✍️ Random Dev Quote
